@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f56315d7dcebc4c4a63fc2745da7807, type: 3}
+  m_Name: texture
+  m_EditorClassIdentifier:
+  m_Version: 1.1.0
+  m_FaceInfo:
+    m_FaceIndex: 0
+    m_FamilyName:
+    m_StyleName:
+    m_PointSize: 0
+    m_Scale: 0
+    m_UnitsPerEM: 0
+    m_LineHeight: 0
+    m_AscentLine: 0
+    m_CapLine: 0
+    m_MeanLine: 0
+    m_Baseline: 0
+    m_DescentLine: 0
+    m_SuperscriptOffset: 0
+    m_SuperscriptSize: 0
+    m_SubscriptOffset: 0
+    m_SubscriptSize: 0
+    m_UnderlineOffset: 0
+    m_UnderlineThickness: 0
+    m_StrikethroughOffset: 0
+    m_StrikethroughThickness: 0
+    m_TabWidth: 0
+  m_Material: {fileID: 2100000, guid: c580a387421369e42bb92866792289c5, type: 2}
+  spriteSheet: {fileID: 2800000, guid: 5e9dbc4f7c2d4c342957721c3df9f875, type: 3}
+  m_SpriteCharacterTable:
+  - m_ElementType: 2
+    m_Unicode: 65534
+    m_GlyphIndex: 3
+    m_Scale: 1
+    m_Name: texture_3
+  - m_ElementType: 2
+    m_Unicode: 65534
+    m_GlyphIndex: 2
+    m_Scale: 1
+    m_Name: texture_4
+  - m_ElementType: 2
+    m_Unicode: 65534
+    m_GlyphIndex: 4
+    m_Scale: 1.1
+    m_Name: texture_2
+  - m_ElementType: 2
+    m_Unicode: 65534
+    m_GlyphIndex: 5
+    m_Scale: 1
+    m_Name: texture_5
+  - m_ElementType: 2
+    m_Unicode: 65534
+    m_GlyphIndex: 0
+    m_Scale: 1
+    m_Name: texture_1
+  - m_ElementType: 2
+    m_Unicode: 65534
+    m_GlyphIndex: 1
+    m_Scale: 1
+    m_Name: texture_0
+  m_GlyphTable:
+  - m_Index: 0
+    m_Metrics:
+      m_Width: 270
+      m_Height: 269
+      m_HorizontalBearingX: -135
+      m_HorizontalBearingY: 134.5
+      m_HorizontalAdvance: 270
+    m_GlyphRect:
+      m_X: 286
+      m_Y: 625
+      m_Width: 270
+      m_Height: 269
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+    sprite: {fileID: 21300000, guid: 43a6f3578ee61a8468a13aef64997c04, type: 2}
+  - m_Index: 1
+    m_Metrics:
+      m_Width: 277
+      m_Height: 306
+      m_HorizontalBearingX: -138.5
+      m_HorizontalBearingY: 153
+      m_HorizontalAdvance: 277
+    m_GlyphRect:
+      m_X: 3
+      m_Y: 588
+      m_Width: 277
+      m_Height: 306
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+    sprite: {fileID: 21300000, guid: 79491359658a74245ab0263d6503fdfd, type: 2}
+  - m_Index: 2
+    m_Metrics:
+      m_Width: 158
+      m_Height: 162
+      m_HorizontalBearingX: -79
+      m_HorizontalBearingY: 81
+      m_HorizontalAdvance: 158
+    m_GlyphRect:
+      m_X: 489
+      m_Y: 457
+      m_Width: 158
+      m_Height: 162
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+    sprite: {fileID: 21300000, guid: 6da6642b7535bdf4893aea9a24b30f2f, type: 2}
+  - m_Index: 3
+    m_Metrics:
+      m_Width: 273
+      m_Height: 274
+      m_HorizontalBearingX: -5.4
+      m_HorizontalBearingY: 228.8
+      m_HorizontalAdvance: 273
+    m_GlyphRect:
+      m_X: 210
+      m_Y: 308
+      m_Width: 273
+      m_Height: 274
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+    sprite: {fileID: 21300000, guid: 79a7bd14ea04ff645b1eba0333275200, type: 2}
+  - m_Index: 4
+    m_Metrics:
+      m_Width: 201
+      m_Height: 294
+      m_HorizontalBearingX: -16.6
+      m_HorizontalBearingY: 248.4
+      m_HorizontalAdvance: 201
+    m_GlyphRect:
+      m_X: 3
+      m_Y: 288
+      m_Width: 201
+      m_Height: 294
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+    sprite: {fileID: 21300000, guid: f90564b7ad8d834458fe6a3e6eda141d, type: 2}
+  - m_Index: 5
+    m_Metrics:
+      m_Width: 297
+      m_Height: 279
+      m_HorizontalBearingX: -50
+      m_HorizontalBearingY: 245.2
+      m_HorizontalAdvance: 297
+    m_GlyphRect:
+      m_X: 3
+      m_Y: 3
+      m_Width: 297
+      m_Height: 279
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+    sprite: {fileID: 21300000, guid: 471cb1acb4dfffc41bb2e97364831830, type: 2}
+  spriteInfoList: []
+  fallbackSpriteAssets: []

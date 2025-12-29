@@ -1,0 +1,27 @@
+CryingSnake.png
+size:1024,1024
+filter:Linear,Linear
+Group 2038
+bounds:580,875,193,35
+Layer 541
+bounds:2,2,168,36
+Layer 543 copy
+bounds:294,293,194,72
+rotate:90
+Shape 525 copy
+bounds:368,317,170,25
+rotate:90
+snake_1
+bounds:399,515,154,48
+rotate:90
+snake_2
+bounds:2,40,193,104
+offsets:1,1,195,105
+snake_3
+bounds:2,146,290,341
+snake_4
+bounds:399,791,179,119
+snake_5
+bounds:399,671,117,118
+snake_6
+bounds:2,489,395,421

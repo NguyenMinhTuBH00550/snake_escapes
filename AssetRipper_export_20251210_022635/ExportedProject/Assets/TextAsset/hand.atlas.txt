@@ -1,0 +1,14 @@
+hand.png
+size:512,512
+filter:Linear,Linear
+scale:0.6
+fx_ring
+bounds:2,228,195,195
+offsets:4,4,203,203
+hand
+bounds:199,287,125,136
+shadow
+bounds:2,80,127,146
+offsets:1,0,130,146
+zoom_arrow
+bounds:2,2,97,76

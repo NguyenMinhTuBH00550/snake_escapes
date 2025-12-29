@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 880f98d7765daf7eabb992f88450c036, type: 3}
+  m_Name: PopUp Animation
+  m_EditorClassIdentifier:
+  popUpCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.00016403198
+      value: 0.85198975
+      inSlope: 2.537934
+      outSlope: 2.537934
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.075000025
+    - serializedVersion: 3
+      time: 0.50577956
+      value: 1.0014446
+      inSlope: 0.27859455
+      outSlope: 0.27859455
+      weightedMode: 0
+      inWeight: 0.42727783
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

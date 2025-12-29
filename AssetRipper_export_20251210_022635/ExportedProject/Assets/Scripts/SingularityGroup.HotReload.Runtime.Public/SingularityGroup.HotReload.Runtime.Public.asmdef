@@ -1,0 +1,5 @@
+{
+  "name": "SingularityGroup.HotReload.Runtime.Public",
+  "references": [],
+  "allowUnsafeCode": true
+}

@@ -1,0 +1,2 @@
+[ci/android-production][Lê Quang Phúc] version:1.5.0 build:30 time:2025-12-05 02:42:43 +0000 hash:45a75ed3 unity:6000.0.59f2
+Version: 1.5.0.30.2025-12-05T09:42:43

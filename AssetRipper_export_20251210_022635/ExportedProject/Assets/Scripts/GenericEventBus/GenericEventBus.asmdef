@@ -1,0 +1,5 @@
+{
+  "name": "GenericEventBus",
+  "references": [],
+  "allowUnsafeCode": true
+}
